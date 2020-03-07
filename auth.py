@@ -4,10 +4,10 @@ driver=Browser()
 
 # set all the variables to your needs
 
-period=3000 # the time period is 3200 seconds in my institute so I chose a lesser value than that 
-login_url="http://10.10.216.4:1000/login?15358636f94c3299"
-username="17070124508"
-password="17070124508"
+period=3000 # the time period is 3200 seconds in my institute so I chose a lesser value than that
+login_url=""
+username=""
+password=""
 username_element_id="ft_un"
 password_element_id="ft_pd"
 
